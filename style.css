@@ -234,7 +234,7 @@ footer .cop {
     right: 30px;
 }
 
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:500px) {
     .hero {
         flex-direction: column;
         height: fit-content;
